@@ -1,0 +1,18 @@
+name: First workflow
+# this is a name for workflow
+
+on: workflow_dispatch
+# to decide on when this workflow should be triggered
+# workflow_dispatch == means the workflow should be triggered manually
+
+jobs: # have a bunch of jobs
+  first-job: # name of first job 
+    runs-on: ubuntu-latest
+    steps:  #env where this can be used
+      - name: Print greeting
+        run: echo "hellow world"
+      - name: Print goodbye
+        run: echo "bye bye"
+      
+     
+    
