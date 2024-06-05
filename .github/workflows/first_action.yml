@@ -10,7 +10,9 @@ jobs: # have a bunch of jobs
     runs-on: ubuntu-latest
     steps:  #env where this can be used
       - name: Print greeting
-        run: echo "hellow world"
+        run: |
+           echo "hellow world"
+           echo "multiple line runner"
       - name: Print goodbye
         run: echo "bye bye"
       
