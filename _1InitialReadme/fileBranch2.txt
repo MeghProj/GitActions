@@ -2,4 +2,4 @@ this is a file created in 2nd branch
 
 commited this!!
 checked out 2nd branch again
-and added - line 3-5
+- added - line 3-5
