@@ -14,3 +14,5 @@ git status
 
 git adding text to old commit
 >>>>>>> 5898903acce5413c66a0a9ed2960f47a6fd01e46
+
+merge done successfully 
