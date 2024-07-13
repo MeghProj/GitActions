@@ -1,0 +1,11 @@
+git remote add origin https://github.com/MeghProj/GitActions.git
+this will connect the local to remote repo
+
+git push ==> will push the code, but upstream connection should be set
+
+git push --set-upstream origin master
+
+or git push --set-upstream main master ==> remote branch name and local branch name
+
+after pushing, if u try to push again == git push ==
+    msg ---- Everything up-to-date
