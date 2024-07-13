@@ -1,0 +1,8 @@
+git clone -b branchName gitRepo
+
+git clone -b master https://github.com/MeghProj/GitActions.git
+
+clones from a "master" branch
+
+git remote ==> not connected to any remote - returns null
+git remote get-url origin => normally returns url of the git connected, but now null since it is not connected to git

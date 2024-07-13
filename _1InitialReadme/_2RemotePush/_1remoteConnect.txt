@@ -11,5 +11,10 @@ after pushing, if u try to push again == git push ==
     msg ---- Everything up-to-date
 
 
+<<<<<<< HEAD
 git remote ==> returns origin => remote name
 git remote get-url origin => returns git url ===> https://github.com/MeghProj/GitActions.git
+=======
+git remote ==> returns origin => remote name 
+git remote get-url origin => returns git url ===> https://github.com/MeghProj/GitActions.git
+>>>>>>> 8501ae216d351153e064b309fc362e51745f9a1e

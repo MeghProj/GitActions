@@ -1,0 +1,6 @@
+git clone repo-name
+git clone https://github.com/MeghProj/GitActions.git   => clones the repo to local - from main branch as no branch is not specified 
+
+git is not initialized
+
+git remote ===> gives blanck as no remote is connected
