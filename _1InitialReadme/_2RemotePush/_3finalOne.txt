@@ -1,0 +1,8 @@
+editing this file in 2nd user
+
+git checkout -b finalBranch
+git add .
+git commit -m "revision"
+git push origin master ==> this will give error
+
+create a pull request with from finalBranch to master
