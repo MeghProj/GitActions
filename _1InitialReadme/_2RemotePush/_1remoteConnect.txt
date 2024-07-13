@@ -9,3 +9,7 @@ or git push --set-upstream main master ==> remote branch name and local branch n
 
 after pushing, if u try to push again == git push ==
     msg ---- Everything up-to-date
+
+
+git remote ==> returns origin => remote name
+git remote get-url origin => returns git url ===> https://github.com/MeghProj/GitActions.git
